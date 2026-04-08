@@ -26,4 +26,27 @@ Projekt aplikacji ogłoszeniowej zbudowany w WordPress z użyciem HivePress i Wo
 - implementacja podstawowych elementów e-commerce
 
 ## 📸 Screenshots
-(tu dodaj obrazki)
+### 🏠 Strona główna
+<img src="./screenshots/home.png" width="700"/>
+
+<br/>
+
+### 📂 Kategorie
+<img src="./screenshots/categories.png" width="700"/>
+
+<br/>
+
+### 📦 Lista ogłoszeń
+<img src="./screenshots/listings.png" width="700"/>
+
+### 📝 Dodawanie ogłoszenia
+<img src="./screenshots/add.png" width="700"/>
+
+### 👤 Rejestracja
+<img src="./screenshots/register.png" width="700"/>
+
+### 💬 Wiadomości
+<img src="./screenshots/message.png" width="700"/>
+
+### ⚙️ Ustawienia
+<img src="./screenshots/settings.png" width="700"/>
