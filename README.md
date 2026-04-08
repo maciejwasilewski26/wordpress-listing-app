@@ -1,2 +1,2 @@
 # wordpress-listing-app
-Strona ogłoszeniowa zrobiona za pomocą WordPress i HivePress
+Aplikacja ogłoszeniowa zbudowana w WordPress z użyciem HivePress
